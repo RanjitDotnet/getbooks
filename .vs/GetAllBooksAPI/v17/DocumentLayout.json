@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ranji\\source\\repos\\GetAllBooksAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB169773-9937-4289-ACFA-BBFE7E537337}|GetAllBooksAPI.csproj|c:\\users\\ranji\\source\\repos\\getallbooksapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB169773-9937-4289-ACFA-BBFE7E537337}|GetAllBooksAPI.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB169773-9937-4289-ACFA-BBFE7E537337}|GetAllBooksAPI.csproj|c:\\users\\ranji\\source\\repos\\getallbooksapi\\bookownnerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB169773-9937-4289-ACFA-BBFE7E537337}|GetAllBooksAPI.csproj|solutionrelative:bookownnerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB169773-9937-4289-ACFA-BBFE7E537337}|GetAllBooksAPI.csproj|c:\\users\\ranji\\source\\repos\\getallbooksapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB169773-9937-4289-ACFA-BBFE7E537337}|GetAllBooksAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB169773-9937-4289-ACFA-BBFE7E537337}|GetAllBooksAPI.csproj|c:\\users\\ranji\\source\\repos\\getallbooksapi\\datasethelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB169773-9937-4289-ACFA-BBFE7E537337}|GetAllBooksAPI.csproj|solutionrelative:datasethelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB169773-9937-4289-ACFA-BBFE7E537337}|GetAllBooksAPI.csproj|c:\\users\\ranji\\source\\repos\\getallbooksapi\\bookowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB169773-9937-4289-ACFA-BBFE7E537337}|GetAllBooksAPI.csproj|solutionrelative:bookowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\ranji\\source\\repos\\GetAllBooksAPI\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\ranji\\source\\repos\\GetAllBooksAPI\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Controllers\\BooksController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T09:29:22.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ranji\\source\\repos\\GetAllBooksAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ranji\\source\\repos\\GetAllBooksAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T09:24:29.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatasetHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ranji\\source\\repos\\GetAllBooksAPI\\DatasetHelper.cs",
+              "RelativeDocumentMoniker": "DatasetHelper.cs",
+              "ToolTip": "C:\\Users\\ranji\\source\\repos\\GetAllBooksAPI\\DatasetHelper.cs",
+              "RelativeToolTip": "DatasetHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T09:21:43.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookOwnnerService.cs",
+              "DocumentMoniker": "C:\\Users\\ranji\\source\\repos\\GetAllBooksAPI\\BookOwnnerService.cs",
+              "RelativeDocumentMoniker": "BookOwnnerService.cs",
+              "ToolTip": "C:\\Users\\ranji\\source\\repos\\GetAllBooksAPI\\BookOwnnerService.cs",
+              "RelativeToolTip": "BookOwnnerService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T09:13:15.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bookowner.cs",
+              "DocumentMoniker": "C:\\Users\\ranji\\source\\repos\\GetAllBooksAPI\\Bookowner.cs",
+              "RelativeDocumentMoniker": "Bookowner.cs",
+              "ToolTip": "C:\\Users\\ranji\\source\\repos\\GetAllBooksAPI\\Bookowner.cs",
+              "RelativeToolTip": "Bookowner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T09:10:01.727Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

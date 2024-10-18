@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DLrrnrQ7/bLqyF+IK75gp6FLpfLxVIpys6UvB4tnGLA=",
+  "Source": "GetAllBooksAPI",
+  "BasePath": "_content/GetAllBooksAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
